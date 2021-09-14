@@ -1,0 +1,2 @@
+model
+-DCATKIN_DEVEL_PREFIX=/home/omar/Task2/devel -DCMAKE_INSTALL_PREFIX=/home/omar/Task2/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/omar/Task1/install
+
+Name: Exercise_one
+Description: Description of Exercise_one
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

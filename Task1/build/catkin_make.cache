@@ -1,0 +1,2 @@
+Exercise_one:Exercise_three:Exercise_two
+-DCATKIN_DEVEL_PREFIX=/home/omar/Task1/devel -DCMAKE_INSTALL_PREFIX=/home/omar/Task1/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/omar/Task2/devel
+
+Name: model
+Description: Description of model
+Version: 0.0.0
+Cflags: -I/home/omar/Task2/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
